@@ -525,9 +525,9 @@ INPUT .\mainstuff\Niv1.tex
 INPUT mainstuff\Niv1.tex
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT .\mainstuff\Evner\Ekstra NK Niv. 1.tex
-INPUT .\mainstuff\Evner\Ekstra NK Niv. 1.tex
-INPUT mainstuff\Evner\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
@@ -540,25 +540,23 @@ INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT mainstuff\Niv2.tex
-INPUT .\mainstuff\Evner\Ekstra LP Niv. 1.tex
-INPUT .\mainstuff\Evner\Ekstra LP Niv. 1.tex
-INPUT mainstuff\Evner\Ekstra LP Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra LP\Ekstra LP Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra LP\Ekstra LP Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra LP\Ekstra LP Niv. 1.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT .\mainstuff\Niv3.tex
 INPUT mainstuff\Niv3.tex
-INPUT .\mainstuff\Evner\Læse og skrive Magisk.tex
-INPUT .\mainstuff\Evner\Læse og skrive Magisk.tex
-INPUT .\mainstuff\Evner\Læse og skrive Magisk.tex
-INPUT .\mainstuff\Evner\Læse og skrive Magisk.tex
-INPUT mainstuff\Evner\Læse og skrive Magisk.tex
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
-INPUT .\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Magisk.tex
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Magisk alfabet.pdf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
@@ -572,20 +570,18 @@ INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT mainstuff\Niv4.tex
-INPUT .\mainstuff\Evner\Ekstra Nk Niv. 2.tex
-INPUT .\mainstuff\Evner\Ekstra Nk Niv. 2.tex
-INPUT mainstuff\Evner\Ekstra Nk Niv. 2.tex
-INPUT .\mainstuff\Evner\Læse og skrive Hellig.tex
-INPUT .\mainstuff\Evner\Læse og skrive Hellig.tex
-INPUT .\mainstuff\Evner\Læse og skrive Hellig.tex
-INPUT .\mainstuff\Evner\Læse og skrive Hellig.tex
-INPUT mainstuff\Evner\Læse og skrive Hellig.tex
-INPUT .\setup\Alfabeter\Helligt alfabet.pdf
-INPUT .\setup\Alfabeter\Helligt alfabet.pdf
-INPUT .\setup\Alfabeter\Helligt alfabet.pdf
-INPUT .\setup\Alfabeter\Helligt alfabet.pdf
-INPUT .\setup\Alfabeter\Helligt alfabet.pdf
-INPUT .\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 2.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 2.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 2.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
+INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
 INPUT .\mainstuff\Magi.tex
 INPUT .\mainstuff\Magi.tex
 INPUT .\mainstuff\Magi.tex
@@ -604,9 +600,9 @@ INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerMedMagiMedTohånds.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerMedMagiMedTohånds.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerMedMagiMedTohånds.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerMedMagiIngenTohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerMedMagiIngenTohåndsvåben.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerMedMagiIngenTohåndsvåben.tex
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
@@ -644,11 +640,11 @@ INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6SansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
+INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\6sansNiv2.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bonk.tex
@@ -659,11 +655,6 @@ INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Bære Person.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp med Tohåndsvåben.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp med Tohåndsvåben.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp med Tohåndsvåben.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp med Tohåndsvåben.tex
-INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Kamp med Tohåndsvåben.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\Evner\Førstehjælp.tex
